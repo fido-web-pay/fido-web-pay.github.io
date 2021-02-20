@@ -5,7 +5,7 @@ FWP builds on extending the technology underpinning FIDO&nbsp;U2F,
 with a Web-adapted version of EMV&reg;.
 However, unlike EMV, FWP is usable with _any account-based
 payment system_, including the eurozone's SEPA Inst.
-The Web interface builds on the W3C PaymentRequest API.
+The FWP Web interface implements the W3C PaymentRequest API.
 
 ### Current Specification
 https://fido-web-pay.github.io/specification
