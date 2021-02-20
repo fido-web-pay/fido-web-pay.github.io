@@ -1,2 +1,3 @@
-# fido-web-pay.github.io
-main
+# Secure on-line payments using FIDO
+
+Links: TBD
