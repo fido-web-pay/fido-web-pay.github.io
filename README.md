@@ -1,5 +1,5 @@
 ![FWP Logo](https://fido-web-pay.github.io/specification/fwp.svg)
-# FWP - Secure On-line Payments Using FIDO&reg;
+# Secure On-line Payments Using FIDO&reg;
 This site describes how _Secure_ and _Convenient_ on-line payments can be
 supported by extending the technology underpinning FIDO&nbsp;U2F
 with a Web-adapted version of EMV&reg;.
