@@ -1,4 +1,4 @@
-![FWP Logo](https://fido-web-pay.github.io/specification/fwp.svg)
+![FWP Logo](https://fido-web-pay.github.io/specification/images/fwp.svg)
 # Secure On-line Payments Using FIDO&reg;
 FWP is a a _secure_ and _convenient_ on-line payment _authorization_ scheme.
 FWP builds on extending the technology underpinning FIDO&nbsp;U2F,
