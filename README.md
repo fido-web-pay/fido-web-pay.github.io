@@ -1,8 +1,9 @@
 # Secure On-line Payments Using FIDO&reg;
-This site describes how the technology underpinning FIDO U2F can be augmented 
-with a Web-adapted version of EMV&reg; in order to support _Secure_ and _Convenient_ 
-on-line payments.  Unlike EMV, the system is usable with any account-based
-payment system, including the eurozone's SEPA instant payments.
+This site describes how _Secure_ and _Convenient_ on-line payments can be
+supported by extending the technology underpinning FIDO U2F
+with a Web-adapted version of EMV&reg;.
+However, unlike EMV, the system is usable with _any account-based
+payment system_, including the eurozone's SEPA Inst.
 
 ### Useful Links
 - [Current Specification](https://fido-web-pay.github.io/specification)
