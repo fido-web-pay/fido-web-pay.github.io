@@ -2,7 +2,7 @@
 This site describes how _Secure_ and _Convenient_ on-line payments can be
 supported by extending the technology underpinning FIDO U2F
 with a Web-adapted version of EMV&reg;.
-However, unlike EMV, the system is usable with _any account-based
+However, unlike EMV, FWP is usable with _any account-based
 payment system_, including the eurozone's SEPA Inst.
 
 ### Useful Links
