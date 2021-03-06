@@ -18,9 +18,10 @@ any need for installing "Apps".
 - [W3C's PaymentRequest](https://www.w3.org/TR/payment-request/)
 
 ### Other Proposals
-- [Google's Secure Payment Confirmation (SPC)](https://github.com/rsolomakhin/secure-payment-confirmation)
-- [Dirk Balfanz's 3P Credential Creation in Webauthn](https://www.w3.org/2020/02/3p-creds-20200219.pdf)
-- [FIDO Alliance's Transaction Confirmation](https://fidoalliance.org/white-paper-fido-transaction-confirmation/)
+- [Google: Secure Payment Confirmation (SPC)](https://github.com/rsolomakhin/secure-payment-confirmation)
+- [Google: 3P Credential Creation in Webauthn](https://www.w3.org/2020/02/3p-creds-20200219.pdf)
+- [FIDO Alliance: Transaction Confirmation](https://fidoalliance.org/white-paper-fido-transaction-confirmation/)
+- [EMVCo: Use of FIDO® Data in 3-D Secure Messages](https://www.emvco.com/terms-of-use/?u=wp-content/uploads/documents/EMVCo_3DS_FIDOData-WPv1.0_20200710.pdf)
 
 _Notes:_<br>
 FIDO is a registered trademark of the FIDO alliance.<br>
