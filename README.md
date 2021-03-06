@@ -19,6 +19,8 @@ any need for installing "Apps".
 
 ### Other Proposals
 - [Google's Secure Payment Confirmation (SPC)](https://github.com/rsolomakhin/secure-payment-confirmation)
+- [Dirk Balfanz's 3P Credential Creation in Webauthn](https://www.w3.org/2020/02/3p-creds-20200219.pdf)
+- [FIDO Alliance's Transaction Confirmation](https://fidoalliance.org/white-paper-fido-transaction-confirmation/)
 
 _Notes:_<br>
 FIDO is a registered trademark of the FIDO alliance.<br>
