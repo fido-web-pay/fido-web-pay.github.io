@@ -8,7 +8,7 @@ However, unlike EMV, FWP is designed to be usable with _any account-based
 payment system_, including the eurozone's SEPA Inst.
 
 FWP implements the W3C PaymentRequest API _in the browser itself_,
-making the system appear as a wallet for users, and that without
+making the system appear as a "Wallet" for users, and that without
 any need for installing "Apps".
 
 ### Current Specification
