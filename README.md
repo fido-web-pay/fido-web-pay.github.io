@@ -14,9 +14,6 @@ any need for installing "Apps".
 ### Current Specification
 [https://fido-web-pay.github.io/specification](https://fido-web-pay.github.io/specification)
 
-### Useful Links
-- [W3C's PaymentRequest](https://www.w3.org/TR/payment-request/)
-
 ### Other Proposals
 - [Google: Secure Payment Confirmation (SPC)](https://github.com/rsolomakhin/secure-payment-confirmation)
 - [Google: 3P Credential Creation in Webauthn](https://www.w3.org/2020/02/3p-creds-20200219.pdf)
