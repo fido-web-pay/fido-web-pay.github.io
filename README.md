@@ -4,7 +4,7 @@ FIDO Web Pay (FWP) is a _universal_, _secure_ and _convenient_ on-line payment a
 FWP builds on extending the technology underpinning FIDO2,
 with a Web-adapted version of EMV&reg;.
 
-Through extensions to EMV, FWP can be applied to _any account-based
+Through an extension to EMV, FWP can be applied to _any account-based
 payment system_, including the eurozone's SEPA Instant.
 
 FWP implements the W3C PaymentRequest API _in the browser itself_,
