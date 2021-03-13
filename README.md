@@ -1,15 +1,17 @@
 ![FWP Logo](https://fido-web-pay.github.io/specification/images/fwp.svg)
-# Secure On-line Payments Using FIDO&reg;
-FIDO Web Pay (FWP) is a _universal_, _secure_ and _convenient_ on-line payment authorization scheme.
+# Secure On-line Payments Using FIDO&reg; and EMV&reg;
+FIDO Web Pay (FWP) is a _Universal_, _Secure_ and _Convenient_ on-line payment authorization scheme.
 FWP builds on extending the technology underpinning FIDO2,
-with a Web-adapted version of EMV&reg;.
+with a Web-adapted version of EMV.
 
 Through an extension to EMV, FWP can be applied to _any account-based
 payment system_, including the eurozone's SEPA Instant.
 
-FWP implements the W3C PaymentRequest API _in the browser itself_,
+FWP implements the W3C [PaymentRequest](https://www.w3.org/TR/payment-request/) API _in the browser itself_,
 making the system appear as a "Wallet" for users, and that without
 any need for installing "Apps".
+
+_Tokenization_ is an intrinsic part of the client platform, obviating the need for specific tokenization services.
 
 ### Current Specification
 [https://fido-web-pay.github.io/specification](https://fido-web-pay.github.io/specification)
