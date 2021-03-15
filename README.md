@@ -9,7 +9,7 @@ payment system_, including the eurozone's SEPA Instant.
 
 FWP implements the W3C [PaymentRequest](https://www.w3.org/TR/payment-request/) API _in the browser itself_,
 making the system appear as a "Wallet" for users, and that without
-any need for installing "Apps".
+installing any "Apps".
 
 _Tokenization_ is an intrinsic part of the client platform, obviating the need for specific tokenization services.
 
@@ -17,7 +17,7 @@ _Tokenization_ is an intrinsic part of the client platform, obviating the need f
 [https://fido-web-pay.github.io/specification](https://fido-web-pay.github.io/specification)
 
 ### Other Proposals
-- Google: [Secure Payment Confirmation (SPC)](https://github.com/rsolomakhin/secure-payment-confirmation)
+- Google/Stripe/W3C: [Secure Payment Confirmation (SPC)](https://github.com/rsolomakhin/secure-payment-confirmation)
 - Google: [3P Credential Creation in Webauthn](https://www.w3.org/2020/02/3p-creds-20200219.pdf)
 - FIDO Alliance: [Transaction Confirmation](https://fidoalliance.org/white-paper-fido-transaction-confirmation/)
 - FIDO Alliance: [FIDO Authentication and EMV 3-D Secure:
