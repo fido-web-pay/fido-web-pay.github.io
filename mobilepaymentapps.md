@@ -38,7 +38,7 @@ for payments is very popular in some countries, _these systems are still only wo
 a national level_.  While Apple & Google Pay are not limited to national
 borders they 1) are not interoperable 2) only support card networks.
 ## FIDO to rescue?
-Banks are understandably reluctant taking on yet another system that "does the same thing".
+Banks are understandably highly reluctant taking on yet another system that "does the same thing".
 There are though a few things that _could_ change the picture:
 - Merchants (including their customers), are probably interested in _any_
 standard payment solution if it is good enough
