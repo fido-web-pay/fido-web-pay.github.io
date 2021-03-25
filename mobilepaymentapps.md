@@ -36,7 +36,7 @@ merchants are facing a multitude of payment options that also build
 on quite different platforms.  Although using mobile banking applications
 for payments is very popular in some countries, _these systems are still only working on
 a national level_.  While Apple & Google Pay are not limited to national
-borders they 1) are not identical 2) only support card networks.
+borders they 1) are not interoperable 2) only support card networks.
 ## FIDO to rescue?
 Banks are understandably reluctant taking on yet another system that "does the same thing".
 There are though a few things that _could_ change the picture:
