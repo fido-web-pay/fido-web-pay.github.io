@@ -42,8 +42,8 @@ Banks are understandably reluctant taking on yet another system that "does the s
 There are though a few things that _could_ change the picture:
 - Merchants (including their customers), are probably interested in _any_
 standard payment solution if it is good enough
-- The ability to support account-2-account payments like SEPA instant have so far
-not happened in a big way with the proprietary solutions
+- Account-2-account payment schemes like SEPA instant, currently have
+very limited support for consumers and merchants (C2B) 
 
 This is the primary rationale for [FIDO Web Pay](https://fido-web-pay.github.io/),
 which is a combination of a Browser-resident (built-in) payment application, FIDO, and EMV.
