@@ -17,9 +17,12 @@ _That is, it is not entirely obvious why banks would switch to FIDO
 based solutions_. However, there is one big difference between internal
 uses like banking and payments: internal systems may be bank-specific,
 while payments targeting external entities like merchants make
-proprietary systems less scalable.  That most payments in the physical world
+proprietary systems less scalable.
+
+<table><tr><td><i>That most payments in the physical world
 are based on an internationally accepted standard, EMV, shows the
-importance of standards.
+  importance of standards</i></td></tr></table>
+
 ## On-line payments - No standards
 However, in the on-line world things are more complicated because
 merchants are facing a multitude of payment options that also build
