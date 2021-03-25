@@ -24,7 +24,7 @@ based solutions_. However, there is one big difference between
 banking and payments: while banking systems may be pretty bank-specific,
 payment solutions targeting external entities like merchants make
 proprietary systems much less attractive.  History shows that only giants
-like PayPal, Amazon, and AliPay can succeed with such endeavors.
+like PayPal, Amazon, and AliPay can realistically succeed with such endeavors.
 
 <table><tr><td><i>That most digital payments in the physical world
   are based on an internationally accepted standard, <b>EMV</b>, shows the
