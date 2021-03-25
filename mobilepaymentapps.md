@@ -29,7 +29,7 @@ are based on an internationally accepted standard, EMV, shows the
 However, in the on-line world things are more complicated because
 merchants are facing a multitude of payment options that also build
 on quite different platforms.  Although using mobile banking applications
-for payments is very popular in many countries, _these systems are still only working on
+for payments is very popular in some countries, _these systems are still only working on
 a national level_.  While Apple & Google Pay are not limited to national
 borders they 1) are not identical 2) only support card networks.
 ## FIDO to rescue?
