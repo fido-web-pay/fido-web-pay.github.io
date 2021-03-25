@@ -28,14 +28,14 @@ are based on an internationally accepted standard, EMV, shows the
 ## On-line payments - No standards
 However, in the on-line world things are more complicated because
 merchants are facing a multitude of payment options that also build
-on quite different platforms.  Although the mobile banking applications
-for payments are very popular in many countries, _they are still only working on
+on quite different platforms.  Although using mobile banking applications
+for payments is very popular in many countries, _these systems are still only working on
 a national level_.  While Apple & Google Pay are not limited to national
 borders they 1) are not identical 2) only support card networks.
 ## FIDO to rescue?
-Banks are undoubtedly reluctant taking on yet another system that "does the same thing".
-There are though a few things that could change the picture:
-- Merchants (including their customers), are probably quite interested in having a standard solution
+Banks are understandably reluctant taking on yet another system that "does the same thing".
+There are though a few things that _could_ change the picture:
+- Merchants (including their customers), are probably interested in a standard solution if it is good enough
 - The ability to support account-2-account payments like SEPA instant have so far
 not happened in a big way with the proprietary solutions
 
