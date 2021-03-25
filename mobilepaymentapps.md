@@ -1,5 +1,5 @@
 ## FIDO in a world owned by proprietary mobile banking and payment apps
-It is a fact that many banks spend millions of dollars each year on proprietary
+It is a fact that banks spend millions of dollars each year on proprietary
 mobile banking solutions.
 
 These applications typically have multiple uses including payment support.
