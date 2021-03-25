@@ -46,12 +46,13 @@ standard payment solution if it is good enough
 not happened in a big way with the proprietary solutions
 
 This is the primary rationale for [FIDO Web Pay](https://fido-web-pay.github.io/),
-which is a combination of the Web, FIDO, and EMV.
+which is a combination of a Browser-resident (built-in) payment application, FIDO, and EMV.
 
 <table><tr><td><i>That banks would drop their mobile banking applications (or
   rebuild them to use FIDO) seems
- rather unlikely to happen anytime soon, while
-supporting an alternative (and popular) payment solution may indeed be possible</i></td></tr></table>
+ rather unlikely to happen anytime soon.
+Supporting a standardized (and popular) payment solution may prove to be a more
+realistic way to get a foothold in the banking community</i></td></tr></table>
 
 Note: whatever payment system you have, it will take considerable time and require 
 substantial marketing to _hopefully_ succeed.
