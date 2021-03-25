@@ -12,9 +12,9 @@ including:
 
 In addition to that, many of these solutions are also used for login
 when the user is on a "PC" running a Web version of the on-line bank
-as well as supporting 3D Secure.  
+as well as supporting **3D Secure**.  
 
-Open Banking introduced yet another function for mobile banking applications:
+**Open Banking** introduced yet another function for mobile banking applications:
 SCA (Strong Customer Authentication).
 Current Open Banking APIs are written in such a way that they do not depend
 on any specific SCA solution.
@@ -27,7 +27,7 @@ proprietary systems much less attractive.  To reach massive adoption
 of such systems is essentially only possible for giants like PayPal, Amazon, and AliPay.
 
 <table><tr><td><i>That most payments in the physical world
-are based on an internationally accepted standard, EMV, shows the
+  are based on an internationally accepted standard, <b>EMV</b>, shows the
   importance of standards</i></td></tr></table>
 
 ## On-line payments - No standards
