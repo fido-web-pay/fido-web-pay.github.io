@@ -54,7 +54,7 @@ which is a combination of a Browser-resident (built-in) payment application, FID
 Supporting a standardized (and popular) payment solution may prove to be a more
 realistic way to get a foothold in the banking community</i></td></tr></table>
 
-Note: whatever payment system you have, it will take considerable time and require 
-substantial marketing to _hopefully_ succeed.
+Note: whatever payment system you have, it will take considerable time and 
+substantial marketing to _hopefully_ reach the critical mass required.
 
 Version: 2021-03-25
