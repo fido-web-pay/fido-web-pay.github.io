@@ -12,7 +12,12 @@ including:
 
 In addition to that, many of these solutions are also used for login
 when the user is on a "PC" running a Web version of the on-line bank
-as well as supporting 3D Secure.
+as well as supporting 3D Secure.  
+
+Open Banking introduced yet another function supported by
+mobile banking applications: SCA (Strong Customer Authentication).
+The APIs are written in such a way that they do not depend on any
+specific SCA solution.
 
 _That is, it is not entirely obvious why banks would switch to FIDO
 based solutions_. However, there is one big difference between
