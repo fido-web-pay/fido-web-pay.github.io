@@ -36,7 +36,7 @@ borders they 1) are not identical 2) only support card networks.
 Banks are understandably reluctant taking on yet another system that "does the same thing".
 There are though a few things that _could_ change the picture:
 - Merchants (including their customers), are probably interested in any
-standard solution if it is good enough
+standard payment solution if it is good enough
 - The ability to support account-2-account payments like SEPA instant have so far
 not happened in a big way with the proprietary solutions
 
