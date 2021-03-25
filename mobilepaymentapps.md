@@ -30,14 +30,14 @@ like PayPal, Amazon, and AliPay can succeed with such endeavors.
   are based on an internationally accepted standard, <b>EMV</b>, shows the
   importance of standards</i></td></tr></table>
 
-## On-line payments - No (generally accepted) standards
+## On-line payments - No (<i>generally accepted</i>) standards
 However, in the on-line world things are more complicated because
 merchants are facing a multitude of payment options that also build
 on quite different platforms.  Although mobile banking and "wallet" applications
 are very popular in some countries, _these systems tend to be
 quite regional_.  While Apple & Google Pay are not constrained by national
 borders they 1) are not interoperable 2) only support card networks.
-## FIDO to rescue?
+## FIDO come to rescue?
 Banks are understandably highly reluctant taking on yet another system that "does the same thing".
 There are though a few things that _could_ change the picture:
 - Merchants (including their customers), are probably interested in _any_
