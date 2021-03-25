@@ -42,12 +42,12 @@ Banks are understandably highly reluctant taking on yet another system that "doe
 There are though a few things that _could_ change the picture:
 - Merchants (including their customers), are probably interested in _any_
 standard payment solution if it is good enough
-- Account-2-account payment schemes like SEPA instant, currently have
-very limited support for consumers and merchants (C2B) 
+- Account-2-account schemes like SEPA instant, currently have
+very limited support for consumer to merchant payments (C2B) 
 
 This is the primary rationale for [FIDO Web Pay](https://fido-web-pay.github.io/) (FWP),
 which is a combination of a Browser-resident (built-in) payment application, FIDO, and EMV.
-Due to its EMV heritage, FWP lends itself to PoS scenarios as well.
+Due to its EMV heritage, FWP lends itself to PoS scenarios as well, albeit using QR code invocation.
 
 <table><tr><td><i>That banks would drop their mobile banking applications (or
   rebuild them to use FIDO) seems
