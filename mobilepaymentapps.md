@@ -35,14 +35,15 @@ borders they 1) are not identical 2) only support card networks.
 ## FIDO to rescue?
 Banks are understandably reluctant taking on yet another system that "does the same thing".
 There are though a few things that _could_ change the picture:
-- Merchants (including their customers), are probably interested in a standard solution if it is good enough
+- Merchants (including their customers), are probably interested in any
+standard solution if it is good enough
 - The ability to support account-2-account payments like SEPA instant have so far
 not happened in a big way with the proprietary solutions
 
-This is the sole rationale for [FIDO Web Pay](https://fido-web-pay.github.io/)
-which do not only leverage FIDO but EMV as well.
+This is the primary rationale for [FIDO Web Pay](https://fido-web-pay.github.io/),
+which is a combination of the Web, FIDO, and EMV.
 
-Note: whatever system you have it will take time and require substantial marketing to
-_hopefully_ succeed.
+Note: whatever payment system you have, it will take considerable time and require 
+substantial marketing to _hopefully_ succeed.
 
 Version: 2021-03-25
