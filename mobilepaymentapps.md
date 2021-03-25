@@ -15,7 +15,7 @@ when the user is on a "PC" running a Web version of the on-line bank
 as well as supporting **3D Secure**.  
 
 **Open Banking** introduced yet another function for mobile banking applications:
-SCA (Strong Customer Authentication).
+Strong Customer Authentication (SCA).
 Current Open Banking APIs are written in such a way that they do not depend
 on any specific SCA solution.
 
