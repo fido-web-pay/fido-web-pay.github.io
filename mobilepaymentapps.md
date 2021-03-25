@@ -10,12 +10,12 @@ including:
 - P2P (Person to Person)
 - Invoice payments
 
-In addition to that, many of these solutions are also used for login
+In addition to that, many of these solutions are also used for **login**
 when the user is on a "PC" running a Web version of the on-line bank
 as well as supporting **3D Secure**.  
 
 **Open Banking** introduced yet another function for mobile banking applications:
-Strong Customer Authentication (SCA).
+Strong Customer Authentication (**SCA**).
 Current Open Banking APIs are written in such a way that they do not depend
 on any specific SCA solution.
 
@@ -23,8 +23,8 @@ _That is, it is not entirely obvious why banks would switch to FIDO
 based solutions_. However, there is one big difference between
 banking and payments: while banking systems may be pretty bank-specific,
 payment solutions targeting external entities like merchants make
-proprietary systems much less attractive.  To reach massive adoption
-of such systems is essentially only possible for giants like PayPal, Amazon, and AliPay.
+proprietary systems much less attractive.  History shows that only giants
+like PayPal, Amazon, and AliPay can succeed with such endeavors.
 
 <table><tr><td><i>That most digital payments in the physical world
   are based on an internationally accepted standard, <b>EMV</b>, shows the
@@ -45,8 +45,9 @@ standard payment solution if it is good enough
 - Account-2-account payment schemes like SEPA instant, currently have
 very limited support for consumers and merchants (C2B) 
 
-This is the primary rationale for [FIDO Web Pay](https://fido-web-pay.github.io/),
+This is the primary rationale for [FIDO Web Pay](https://fido-web-pay.github.io/) (FWP),
 which is a combination of a Browser-resident (built-in) payment application, FIDO, and EMV.
+Due to its EMV heritage, FWP lends itself to PoS scenarios as well.
 
 <table><tr><td><i>That banks would drop their mobile banking applications (or
   rebuild them to use FIDO) seems
