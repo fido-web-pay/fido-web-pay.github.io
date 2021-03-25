@@ -30,11 +30,11 @@ like PayPal, Amazon, and AliPay can succeed with such endeavors.
   are based on an internationally accepted standard, <b>EMV</b>, shows the
   importance of standards</i></td></tr></table>
 
-## On-line payments - No standards
+## On-line payments - No (generally accepted) standards
 However, in the on-line world things are more complicated because
 merchants are facing a multitude of payment options that also build
-on quite different platforms.  Although using mobile banking applications
-for payments is very popular in some countries, _these systems are still only working on
+on quite different platforms.  Although mobile banking and "wallet" applications
+are very popular in some countries, _these systems are still only working on
 a national level_.  While Apple & Google Pay are not limited to national
 borders they 1) are not interoperable 2) only support card networks.
 ## FIDO to rescue?
