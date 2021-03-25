@@ -17,7 +17,7 @@ as well as supporting 3D Secure.
 _That is, it is not entirely obvious why banks would switch to FIDO
 based solutions_. However, there is one big difference between
 banking and payments: while banking systems may be pretty bank-specific,
-payments targeting external entities like merchants make
+payment solutions targeting external entities like merchants make
 proprietary systems much less attractive.  To reach massive adoption
 of such systems is essentially only possible for giants like PayPal, Amazon, and AliPay.
 
