@@ -26,7 +26,7 @@ payment solutions targeting external entities like merchants make
 proprietary systems much less attractive.  To reach massive adoption
 of such systems is essentially only possible for giants like PayPal, Amazon, and AliPay.
 
-<table><tr><td><i>That most payments in the physical world
+<table><tr><td><i>That most digital payments in the physical world
   are based on an internationally accepted standard, <b>EMV</b>, shows the
   importance of standards</i></td></tr></table>
 
