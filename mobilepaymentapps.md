@@ -42,7 +42,7 @@ not happened in a big way with the proprietary solutions
 This is the sole rationale for [FIDO Web Pay](https://fido-web-pay.github.io/)
 which do not only leverage FIDO but EMV as well.
 
-Note: whatever system you propose it will take time and require marketing to
-succeed.
+Note: whatever system you have it will take time and require substantial marketing to
+_hopefully_ succeed.
 
 Version: 2021-03-25
