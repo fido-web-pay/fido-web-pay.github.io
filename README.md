@@ -21,6 +21,7 @@ _Tokenization_ is an intrinsic part of the client platform, obviating the need f
 - FIDO Alliance: [Transaction Confirmation](https://fidoalliance.org/white-paper-fido-transaction-confirmation/)
 - FIDO Alliance: [FIDO Authentication and EMV 3-D Secure:
 Using FIDO for Payment Authentication](https://media.fidoalliance.org/wp-content/uploads/2020/09/FIDO-and-EMV-3DS-Technical-Note-2020-09-01.pdf)
+- FIDO Alliance: [FIDO for SCA Delegation to Merchants or Wallet Providers](https://fidoalliance.org/white-paper-fido-for-sca-delegation-to-merchants-or-wallet-providers/)
 - EMVCo: [Use of FIDO® Data in 3-D Secure Messages](https://www.emvco.com/terms-of-use/?u=wp-content/uploads/documents/EMVCo_3DS_FIDOData-WPv1.0_20200710.pdf)
 
 _Notes:_<br>
