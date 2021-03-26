@@ -10,7 +10,7 @@ including:
 - P2P (Person to Person)
 - Invoice payments
 
-In addition to that, many of these solutions are also used for **login**
+In addition to that, most of these solutions are also used for **login**
 when the user is on a "PC" running a Web version of the on-line bank
 as well as supporting **3D Secure**.  
 
@@ -46,8 +46,8 @@ standard payment solution if it is good enough
 to merchant payments (C2B).  Not only on-line, but in the physical world as well 
 
 This is the primary rationale for [FIDO Web Pay](https://fido-web-pay.github.io/) (FWP),
-which is a combination of a Browser-resident (built-in) payment application, FIDO, and EMV.
-Due to its EMV heritage, FWP lends itself to PoS scenarios as well, albeit using QR code invocation.
+which is a combination of a Browser-resident (built-in) payment application, FIDO, and an enhanced version of EMV.
+Due to its EMV origin, FWP lends itself to PoS scenarios as well, albeit using QR code invocation.
 
 <table><tr><td><i>That banks would drop their mobile banking applications (or
   rebuild them to use FIDO) seems
