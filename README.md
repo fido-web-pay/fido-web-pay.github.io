@@ -1,6 +1,6 @@
 ![FWP Logo](https://fido-web-pay.github.io/specification/images/fwp.svg)
 # Secure On-line Payments Using FIDO&reg; and EMV&reg;
-FIDO Web Pay (FWP) is a _Universal_, _Secure_ and _Convenient_ on-line payment authorization scheme.
+FIDO Web Pay (FWP) is an _Open_, _Universal_, _Vendor-independent_, _Secure_, and _Convenient_ on-line payment authorization scheme.
 FWP combines the technology underpinning FIDO, with a Web-adapted version of EMV.
 
 Through an extension to EMV, FWP can be applied to _any account-based
