@@ -16,7 +16,7 @@ _Tokenization_ is an intrinsic part of the client platform, obviating the need f
 [https://fido-web-pay.github.io/specification](https://fido-web-pay.github.io/specification)
 
 ### Proof-of-Concept System
-https://test.webpki.org/fwp
+[https://test.webpki.org/fwp](https://test.webpki.org/fwp)
 
 ### Other Proposals
 - Google/W3C: [Secure Payment Confirmation (SPC)](https://github.com/w3c/secure-payment-confirmation)
